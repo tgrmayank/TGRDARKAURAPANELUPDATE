@@ -1,0 +1,184 @@
+{
+  "licenses": [
+    {
+      "key": "DEMO-0001",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0002",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0003",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0004",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0005",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0006",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0007",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0008",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0009",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0010",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0011",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0012",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0013",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0014",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0015",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0016",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0017",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0018",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0019",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    },
+    {
+      "key": "DEMO-0020",
+      "device_id": "",
+      "expiry_date": "2026-12-31",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-01",
+      "max_devices": 1
+    }
+  ]
+}
